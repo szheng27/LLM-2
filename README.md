@@ -36,5 +36,5 @@ In this notebook, we have:
 - Train your own model, fine-tuning BERT
 - Generate the submission file
 
-Cridt to Sam Yang
+Credit to Sam Yang
 
